@@ -1,0 +1,11 @@
+asyncio
+logging
+openai
+os
+requests
+replicate
+deep_translator
+pydub
+aiogram
+PIL
+io
